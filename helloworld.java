@@ -14,6 +14,7 @@
  *  of the program and the resulting output. We will always include such 
  *  lines in our programs and encourage you to do the same.
  * Adding comment
+ * Adding comment for gitCommitTest (auto building on Jenkins by commit) --05/12/2018
  ******************************************************************************/
 
 public class helloworld {
