@@ -16,6 +16,7 @@
  * Adding comment
  * Adding comment for gitCommitTest (auto building on Jenkins by commit) --05/12/2018
  * Adding comment for gitCommitTest (auto building on Jenkins by commit,part two test) --05/12/2018
+ * Adding comment for gitCommitTest (auto building on Jenkins by commit,part three test) --05/12/2018
  ******************************************************************************/
 
 public class helloworld {
